@@ -9,7 +9,7 @@
 * [Part.1.05 取得施展魔法所需的聖物 - 安裝Java SDK](./articles/part-01/chapter-05.md)
 * [Part.1.06 讓電腦聽命於你的秘訣 - Compiler](./articles/part-01/chapter-06.md)
 
-* [Part.2.01 調製魔法草藥是基本功 - 基本資料型態 & 運算子](./articles/part-02/chapter-01.md)
+* [Part.2.01 魔咒的基本配方 - 基本資料型態 & 運算子](./articles/part-02/chapter-01.md)
 * [Part.2.02 條件語法 - if/else判斷式](./articles/part-02/chapter-02.md)
 * [Part.2.03 反覆語法-I - for迴圈](./articles/part-02/chapter-03.md)
 * [Part.2.04 反覆語法-II - while迴圈](./articles/part-02/chapter-04.md)
