@@ -1,4 +1,4 @@
-# 中斷/跳過句型 - break/continue
+# 中斷/跳過語法 - break/continue
 
 
 
