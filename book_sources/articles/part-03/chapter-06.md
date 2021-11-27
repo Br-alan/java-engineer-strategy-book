@@ -1,4 +1,4 @@
-# 魔法組合連續技 - Design Pattern
+# 3.6 魔咒的組合技法 - Design Pattern
 
 
 
