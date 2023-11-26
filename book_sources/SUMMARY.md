@@ -1,6 +1,6 @@
-# Summary
+# 目錄
 
-* [前言](README.md)
+* [前言](preface.md)
 * [第一部分 魔法從未消失](./articles/part-01/README.md)
     * [1.1 被魔法選上的人](./articles/part-01/chapter-01.md)
     * [1.2 求人不如求神 - Google大神](./articles/part-01/chapter-02.md)

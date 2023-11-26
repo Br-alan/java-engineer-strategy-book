@@ -1,2 +1,3 @@
 # 1.1 被魔法選上的人
-- Hello, Java!
+
+![Alt text](image-1.png)
